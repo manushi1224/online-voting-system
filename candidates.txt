@@ -1,0 +1,4 @@
+1		Narendra_Modi		Lotus		BJP		4
+2		Rahul_Gandhi		Hand		INC		1
+3		Mamta_Banerjee		Flower		TMC		2
+4		Kejriwal		Broom		AAP		2
